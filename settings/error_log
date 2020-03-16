@@ -1,0 +1,9 @@
+[14-Mar-2020 16:56:35 America/Chicago] PHP Notice:  Undefined variable: firstname in /home3/timucinibu/all-in-one4her.eu/settings/action.php on line 221
+[14-Mar-2020 17:05:56 America/Chicago] PHP Notice:  Undefined variable: firstname in /home3/timucinibu/all-in-one4her.eu/settings/action.php on line 421
+[14-Mar-2020 17:52:57 America/Chicago] PHP Warning:  move_uploaded_file(img/events/28314282532650030306HER-logo.png): failed to open stream: No such file or directory in /home3/timucinibu/all-in-one4her.eu/settings/action.php on line 22
+[14-Mar-2020 17:52:57 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9noM2i' to 'img/events/28314282532650030306HER-logo.png' in /home3/timucinibu/all-in-one4her.eu/settings/action.php on line 22
+[14-Mar-2020 18:23:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/timucinibu/all-in-one4her.eu/settings/action.php on line 48
+[14-Mar-2020 18:48:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function UTC_TIMESTAMP() in /home3/timucinibu/all-in-one4her.eu/settings/action.php:1130
+Stack trace:
+#0 {main}
+  thrown in /home3/timucinibu/all-in-one4her.eu/settings/action.php on line 1130
